@@ -1,20 +1,29 @@
 # France-IOI Corrections 
 
-Ce référentiel contient mes corrections des exercices de [France-IOI](http://www.france-ioi.org/) en utilisant divers langages de programmation.
+Ce référentiel contient les corrections des exercices de [France-IOI](http://www.france-ioi.org/) en utilisant divers langages de programmation.
 
 ## Objectif
 
-L'objectif de ce projet est de partager mes solutions fonctionnelles et commentées pour les problèmes de France-IOI.
+L'objectif de ce projet est de partager des solutions fonctionnelles et commentées pour les problèmes de France-IOI afin d'aider d'autres apprenants à comprendre les concepts et à améliorer leurs compétences en programmation.
 
 ## Structure du Répertoire
 
 - `niveau-X/`: Dossiers pour chaque niveau d'exercices.
   - `exercice-Y/`: Dossiers pour chaque exercice individuel.
-    - `solution-langage/`: Dossiers pour les solutions en langage spécifique.
-      - `solution.py`: Solution en Python.
-      - `solution.java`: Solution en Java.
+    - `solution-c/`: Dossiers pour les solutions en langage C.
+      - `solution.c`: Solution en langage C.
+    - `solution-cpp/`: Dossiers pour les solutions en langage C++.
       - `solution.cpp`: Solution en C++.
-      - `solution.swift`: Solution en Swift.
+    - `solution-pascal/`: Dossiers pour les solutions en langage Pascal.
+      - `solution.pas`: Solution en Pascal.
+    - `solution-ocaml/`: Dossiers pour les solutions en langage OCaml.
+      - `solution.ml`: Solution en OCaml.
+    - `solution-java/`: Dossiers pour les solutions en langage Java.
+      - `Solution.java`: Solution en Java.
+    - `solution-javascool/`: Dossiers pour les solutions en langage JavaScool.
+      - `Solution.java`: Solution en JavaScool.
+    - `solution-python/`: Dossiers pour les solutions en langage Python.
+      - `solution.py`: Solution en Python.
     - `explication.md`: Une explication détaillée de la solution.
 
 ## Avertissement
