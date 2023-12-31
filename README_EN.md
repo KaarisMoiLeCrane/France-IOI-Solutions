@@ -12,21 +12,22 @@ The goal of this project is to share functional and commented solutions for Fran
 
 - `niveau-X/`: Directories for each level of exercises.
   - `exercice-Y/`: Directories for each individual exercise.
-    - `c/`: Directories for solutions in the C language.
-      - `main.c`: C language solution.
-    - `cpp/`: Directories for solutions in the C++ language.
-      - `main.cpp`: C++ language solution.
-    - `pascal/`: Directories for solutions in the Pascal language.
-      - `main.pas`: Pascal language solution.
-    - `ocaml/`: Directories for solutions in the OCaml language.
-      - `main.ml`: OCaml language solution.
-    - `java/`: Directories for solutions in the Java language.
-      - `main.java`: Java language solution.
-    - `javascool/`: Directories for solutions in the JavaScool language.
-      - `main.java`: JavaScool language solution.
-    - `python/`: Directories for solutions in the Python language.
-      - `main.py`: Python language solution.
-    - `explanation.md`: A detailed explanation of the solution.
+    - `n-exercice`: Directories for each individual question.
+      - `c/`: Directories for solutions in the C language.
+        - `main.c`: C language solution.
+      - `cpp/`: Directories for solutions in the C++ language.
+        - `main.cpp`: C++ language solution.
+      - `pascal/`: Directories for solutions in the Pascal language.
+        - `main.pas`: Pascal language solution.
+      - `ocaml/`: Directories for solutions in the OCaml language.
+        - `main.ml`: OCaml language solution.
+      - `java/`: Directories for solutions in the Java language.
+        - `main.java`: Java language solution.
+      - `javascool/`: Directories for solutions in the JavaScool language.
+        - `main.java`: JavaScool language solution.
+      - `python/`: Directories for solutions in the Python language.
+        - `main.py`: Python language solution.
+      - `explanation.md`: A detailed explanation of the solution.
 
 ## Disclaimer
 
