@@ -12,20 +12,20 @@ L'objectif de ce projet est de partager des solutions fonctionnelles et comment�
 
 - `niveau-X/`: Dossiers pour chaque niveau d'exercices.
   - `exercice-Y/`: Dossiers pour chaque exercice individuel.
-    - `solution-c/`: Dossiers pour les solutions en langage C.
-      - `solution.c`: Solution en langage C.
-    - `solution-cpp/`: Dossiers pour les solutions en langage C++.
-      - `solution.cpp`: Solution en C++.
-    - `solution-pascal/`: Dossiers pour les solutions en langage Pascal.
-      - `solution.pas`: Solution en Pascal.
-    - `solution-ocaml/`: Dossiers pour les solutions en langage OCaml.
-      - `solution.ml`: Solution en OCaml.
-    - `solution-java/`: Dossiers pour les solutions en langage Java.
-      - `solution.java`: Solution en Java.
-    - `solution-javascool/`: Dossiers pour les solutions en langage JavaScool.
-      - `solution.java`: Solution en JavaScool.
-    - `solution-python/`: Dossiers pour les solutions en langage Python.
-      - `solution.py`: Solution en Python.
+    - `c/`: Dossiers pour les solutions en langage C.
+      - `main.c`: Solution en langage C.
+    - `cpp/`: Dossiers pour les solutions en langage C++.
+      - `main.cpp`: Solution en C++.
+    - `pascal/`: Dossiers pour les solutions en langage Pascal.
+      - `main.pas`: Solution en Pascal.
+    - `ocaml/`: Dossiers pour les solutions en langage OCaml.
+      - `main.ml`: Solution en OCaml.
+    - `java/`: Dossiers pour les solutions en langage Java.
+      - `main.java`: Solution en Java.
+    - `javascool/`: Dossiers pour les solutions en langage JavaScool.
+      - `main.java`: Solution en JavaScool.
+    - `python/`: Dossiers pour les solutions en langage Python.
+      - `main.py`: Solution en Python.
     - `explication.md`: Une explication détaillée de la solution.
 
 ## Avertissement
