@@ -23,7 +23,7 @@ L'objectif de ce projet est de partager des solutions fonctionnelles et comment�
     - `solution-java/`: Dossiers pour les solutions en langage Java.
       - `solution.java`: Solution en Java.
     - `solution-javascool/`: Dossiers pour les solutions en langage JavaScool.
-      - `Solution.java`: Solution en JavaScool.
+      - `solution.java`: Solution en JavaScool.
     - `solution-python/`: Dossiers pour les solutions en langage Python.
       - `solution.py`: Solution en Python.
     - `explication.md`: Une explication détaillée de la solution.
