@@ -1,3 +1,5 @@
+> You don't understand french ? See [*READ-ME* in english](./README_EN.md) !
+
 # France-IOI Corrections 
 
 Ce référentiel contient les corrections des exercices de [France-IOI](http://www.france-ioi.org/) en utilisant divers langages de programmation.
