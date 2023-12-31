@@ -19,7 +19,7 @@ L'objectif de ce projet est de partager des solutions fonctionnelles et comment√
     - `solution-ocaml/`: Dossiers pour les solutions en langage OCaml.
       - `solution.ml`: Solution en OCaml.
     - `solution-java/`: Dossiers pour les solutions en langage Java.
-      - `Solution.java`: Solution en Java.
+      - `solution.java`: Solution en Java.
     - `solution-javascool/`: Dossiers pour les solutions en langage JavaScool.
       - `Solution.java`: Solution en JavaScool.
     - `solution-python/`: Dossiers pour les solutions en langage Python.
