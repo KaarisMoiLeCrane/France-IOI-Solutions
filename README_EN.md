@@ -12,7 +12,7 @@ The goal of this project is to share functional and commented solutions for Fran
 
 - `niveau-X/`: Directories for each level of exercises.
   - `exercice-Y/`: Directories for each individual exercise.
-    - `n-exercice`: Directories for each individual question.
+    - `n-question`: Directories for each individual question.
       - `C/`: Directories for solutions in the C language.
         - `main.c`: C language solution.
         - `explanation.md`: A detailed explanation of the solution.

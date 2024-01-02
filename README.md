@@ -12,7 +12,7 @@ L'objectif de ce projet est de partager des solutions fonctionnelles et comment�
 
 - `niveau-X/`: Dossiers pour chaque niveau d'exercices.
   - `exercice-Y/`: Dossiers pour chaque exercice individuel.
-    - `n-exercice`: Dossiers pour chaque question individuelle.
+    - `n-question`: Dossiers pour chaque question individuelle.
       - `C/`: Dossiers pour les solutions en langage C.
         - `main.c`: Solution en langage C.
         - `explication.md`: Une explication détaillée de la solution.
