@@ -1,0 +1,10 @@
+x_min = int(input())
+x_max = int(input())
+y_min = int(input())
+y_max = int(input())
+nbr_maisons = int(input())
+coo_maisons = iter((int(input()), int(input())) for _ in range(nbr_maisons))
+nbr_maisons_suspectes = sum(
+    1 for (x, y) in coo_maisons if (x_min <= x <= x_max) and (y_min <= y <= y_max)
+)
+print(nbr_maisons_suspectes)
