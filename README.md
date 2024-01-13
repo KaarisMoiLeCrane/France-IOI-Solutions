@@ -10,8 +10,8 @@ L'objectif de ce projet est de partager des solutions fonctionnelles et comment�
 
 ## Structure du Répertoire
 
-- `niveau-X/`: Dossiers pour chaque niveau d'exercices.
-  - `exercice-Y/`: Dossiers pour chaque exercice individuel.
+- `niveau-XX/`: Dossiers pour chaque niveau d'exercices.
+  - `exercice-YY/`: Dossiers pour chaque exercice individuel.
     - `n-question`: Dossiers pour chaque question individuelle.
       - `C/`: Dossiers pour les solutions en langage C.
         - `main.c`: Solution en langage C.
@@ -41,4 +41,4 @@ Les solutions fournies sont destinées à des fins éducatives et pour aider les
 
 ## Licence
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence Apache 2.0 - voir le fichier [LICENSE](LICENSE) pour plus de détails.

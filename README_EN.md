@@ -41,4 +41,4 @@ The provided solutions are intended for educational purposes and to assist learn
 
 ## License
 
-This project is under the MIT license - see the [LICENSE](LICENSE) file for more details.
+This project is under the Apache 2.0 license - see the [LICENSE](LICENSE) file for more details.
